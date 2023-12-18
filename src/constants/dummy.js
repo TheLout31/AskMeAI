@@ -1,19 +1,19 @@
  const dummymessage = [
   {
-    role: "hello",
+    role: "user",
     content: "how are you?",
   },
   {
-    role: "ban",
-    content: "how are you?",
+    role: "assistant",
+    content: "i am fine",
   },
   {
-    role: "okay",
-    content: "how are you?",
+    role: "user",
+    content: "tell me about u?",
   },
   {
-    role: "happy",
-    content: "how are you?",
+    role: "assistant",
+    content: 'i am an ',
   },
 ];
 
